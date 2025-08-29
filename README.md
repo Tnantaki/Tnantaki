@@ -6,15 +6,15 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,go,html,css,js,ts,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,c,cpp,bash&perline=10)](https://skillicons.dev)
 
 ### Framwork & Library
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react&perline=10)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vim,git,docker,figma,nodejs,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,git,docker,figma,bun,sqlite&perline=10)](https://skillicons.dev)
 
 <!--
 **Tnantaki/Tnantaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 
 | ![Tnantaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnantaki&show_icons=true&hide=issues&theme=slateorange) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnantaki&layout=compact&theme=slateorange) |
 |:-:|:-:|
-
----
-
-### My 42 Stats
-
-[![Tnantaki's 42 stats](https://badge.mediaplus.ma/darkgray/tnantaki)](https://github.com/oakoudad/badge42)
 
 ---
 
