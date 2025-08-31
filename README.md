@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="start">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnantaki&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=slateorange" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnantaki&langs_count=8&layout=compact&hide=css&hide_border=true&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnantaki&langs_count=8&layout=compact&hide=css&hide_border=true&card_width=360&theme=slateorange" />
 </p>
 
 ---
