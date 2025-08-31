@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 
-| ![Tnantaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnantaki&show_icons=true&hide=issues&theme=slateorange) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnantaki&layout=compact&theme=slateorange) |
-|:-:|:-:|
+<p align="start">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnantaki&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnantaki&langs_count=8&layout=compact&hide=css&hide_border=true&theme=slateorange" />
+</p>
 
 ---
 
