@@ -6,7 +6,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,c,cpp,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,c,cpp,rust,bash&perline=10)](https://skillicons.dev)
 
 ### Framwork & Library
 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ### Contact me
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/652093395078217728)
+-->
